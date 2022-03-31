@@ -59,14 +59,14 @@ Back End
 
 Logo
 
-<img src="./images/unifiedlogo.png">
+<img src="./public/images/unifiedlogo.png">
 
 Deployed app screenshots
 
-<img src="./images/deployed-app.png">
-<img src="./images/jobs-page.png">
-<img src="./images/forum-page.png">
-<img src="./images/market-place.png">
+<img src="./public/images/deployed-app.png">
+<img src="./public/images/jobs-page.png">
+<img src="./public/images/forum-page.png">
+<img src="./public/images/market-place.png">
 
 
 
