@@ -54,6 +54,7 @@ Back End
 - [Yashemabeth Mcleod](https://github.com/Yashemabeth)
 
 
+
 # Screenshots
 
 Logo
@@ -66,5 +67,6 @@ Deployed app screenshots
 <img src="./images/jobs-page.png">
 <img src="./images/forum-page.png">
 <img src="./images/market-place.png">
+
 
 
